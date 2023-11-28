@@ -1,9 +1,8 @@
-/*
- * saes_1900630.c
- *
+/* Simplified AES
  *  Created on: Nov 20, 2023
- *      Author: hp
+ *  Author: Engy Mohamed
  */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
